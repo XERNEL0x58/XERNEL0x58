@@ -8,6 +8,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/XERNEL0x58)
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)](https://github.com/XERNEL0x58)
+&nbsp;&nbsp;
+[![Bluesky](https://img.shields.io/badge/bsky-121011?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/xernel0x58.bsky.social)
 
 # Tech Stack:
 ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=flat&logo=android&logoColor=white)
